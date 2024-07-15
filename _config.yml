@@ -107,7 +107,7 @@ content:
         quote: >
           Indirizzo scientifico in Biologia e Chimica con opzione complementare Fisica
         description: | # this will include new lines to allow paragraphs
-          # Description of qualification
+          Description of qualification
   - title: Esperienze
     layout: list
     content:
