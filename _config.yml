@@ -36,7 +36,7 @@ linkedin_username: thomas-martinelli-4005b9319
 # Additional icon links -> substack?
 additional_links:
 - title: Substack
-  icon: fab feather
+  icon: fab fa-light fa-feather
   url: https://google.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Lists
     - Tables
     - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+#   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
