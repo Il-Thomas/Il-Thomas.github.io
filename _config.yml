@@ -90,13 +90,11 @@ content:
         caption: 2021 - (2024)
         quote: >
           La tradizione italiana all'Università di Friburgo si rifà all’insegnamento di professori 
-          come Gianfranco Contini e Giovanni Pozzi. 
-          La particolare didattica in seminari dai numeri ristretti è orientata alla partecipazione 
-          e al dialogo con gli studenti, mentre le collaborazioni con altre 
-          università svizzere e italiane assicurano preziosi scambi accademici. <br>
-          (Ecco una breve <a href="https://www.youtube.com/watch?v=jfFvHsdPGH8">video intervista</a> a due professori del Dipartimento)
+          come Gianfranco Contini e Giovanni Pozzi, attraverso seminari dai numeri ristretti orientati 
+          al dialogo con gli studenti <br>
+          (Ecco una breve <a href="https://www.youtube.com/watch?v=jfFvHsdPGH8"> intervista</a> a due professori)
         description: | # this will include new lines to allow paragraphs
-          Programma di studi in <mark>Letteratura</mark> e <mark>Filologia</mark> italiane. 
+          Ho seguito il programma di studi in <mark>Letteratura</mark> e <mark>Filologia</mark> italiane. 
           Formazione minore in *Linguistica* e *letteratura* inglesi
       - layout: top-left
         title: Università di Friburgo
