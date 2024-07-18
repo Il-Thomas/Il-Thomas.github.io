@@ -36,7 +36,7 @@ linkedin_username: thomas-martinelli-4005b9319
 # Additional icon links -> substack?
 additional_links:
 - title: Substack
-  icon: fab fa-solid fa-feather
+  icon: fab fa-feather
   url: https://google.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
