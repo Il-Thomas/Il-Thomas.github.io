@@ -89,13 +89,22 @@ content:
         sub_title: MA of Arts
         caption: 2021 - (2024)
         quote: >
-          La tradizione italiana all'Università di Friburgo si rifà all’insegnamento di professori 
-          come Gianfranco Contini e Giovanni Pozzi, attraverso seminari dai numeri ristretti orientati 
+          La tradizione italiana all'Università di Friburgo si rifà all'insegnamento di professori 
+          come Gianfranco Contini e Giovanni Pozzi attraverso corsi dai numeri ristretti orientati 
           al dialogo con gli studenti <br>
           (Ecco una breve <a href="https://www.youtube.com/watch?v=jfFvHsdPGH8"> intervista</a> a due professori)
         description: | # this will include new lines to allow paragraphs
-          Ho seguito il programma di studi in <mark>Letteratura</mark> e <mark>Filologia</mark> italiane. 
-          Formazione minore in *Linguistica* e *letteratura* inglesi
+          Ho seguito il programma principale di studi in <mark>Letteratura</mark> e <mark>Filologia</mark> italiane, 
+          accompagnato dalla studio laterale di <mark>Linguistica</mark> e letteratura inglese.
+      - layout: top-left
+        title: Uppsala University
+        sub_title: Erasmus
+        caption: Autunno 2023
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Ho seguito corsi di Sociolinguistica, di sintassi inglese,
+          di letteratura celtica e di lingua svedese (A1)
       - layout: top-left
         title: Università di Friburgo
         sub_title: BA of Arts
@@ -108,10 +117,12 @@ content:
         title: Liceo di Mendrisio
         sub_title: Maturità liceale
         caption: 2014 - 2018
-        quote: >
-          Indirizzo scientifico in Biologia e Chimica con opzione complementare Fisica
+        # quote: >
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Ho concluso il liceo scientifico in Biologia e Chimica,
+          con un Lavoro di Maturità in chimica sugli ansiolitici e su come vengono testati.
+          Ho accompagnato il percorso con l'opzione complementare Fisica. 
+          
   - title: Esperienze
     layout: list
     content:
